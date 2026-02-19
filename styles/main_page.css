@@ -759,6 +759,17 @@ nav {
     box-shadow: 0 10px 30px rgba(42, 171, 238, 0.3);
 }
 
+.social-link.website {
+    border-color: rgba(120, 42, 238, 0.5);
+}
+
+.social-link.website:hover {
+    background: rgba(133, 42, 238, 0.2);
+    border-color: #a92aee;
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(156, 42, 238, 0.3);
+}
+
 .social-link.youtube {
     border-color: rgba(255, 0, 0, 0.5);
 }
